@@ -19,5 +19,6 @@ Halo, repository ini dibuat untuk kamu yang baru belajar git dan ingin mencoba p
 
 ![pull-request](https://github.com/kodekoki/gallery/blob/master/snippet/belajar-git/pull%20request.png?raw=true)
 
-9. Lakukan Pull Request, kamu akan bisa melihat file perubahan pada halaman Pull request sebelum disubmit, lalu klik button "Create Pull Request" untuk membuat pull request.
-10. **Selamat, kamu sudah membuat pull request pertama mu.** Sekarang pull request kamu akan di review oleh pemilik repo dan kamu akan melihat hasil perubahannya nya dalam beberapa waktu setelah di merge oleh pemilik nya.
+8. Lakukan Pull Request, kamu akan bisa melihat file perubahan pada halaman Pull request sebelum disubmit, lalu klik button "Create pull request" untuk menuju kehalaman pull request.
+9.  Isikan Title pull request mu, contoh: `Menambah Kontributor Baru` lalu klik "Create pull request" sekali lagi.
+10.  **Selamat, kamu sudah membuat pull request pertama mu.** Sekarang pull request kamu akan di review oleh pemilik repo dan kamu akan melihat hasil perubahannya nya dalam beberapa waktu setelah di merge oleh pemilik nya.
